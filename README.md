@@ -31,10 +31,8 @@ img{
 </html>
 ```
 
+`<strong>`貓貓好可愛`<strong>`
 ![貓貓好可愛](https://cdn.hk01.com/di/media/images/cis/5dc3cbe023ab170deb414ec9.jpg/XxSIqZL5ulb02lUEXfQ5dGwPYW8oA0UlTCgm-0woJvs?v=w1920)
-
-
-還是要*勉強自己*，笑起來處子般通紅；看人_突然好想你_，顯露所有鋒芒堅持方向，顯露所有鋒芒堅持方向，在我活的地方為什麼你，我嘆了嘆氣。* 普通文字 *。
 
 
 ---
